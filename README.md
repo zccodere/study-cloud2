@@ -24,4 +24,9 @@
 重试机制
 </p>
 
+### 2018-2018100202：ch05-hystrix<br>
+第05章《服务容错保护：Spring Cloud Hystrix》学习源码
+<p>
+使用 Hystrix、Hystrix 仪表盘、Turbine 集群监控（构建监控聚合服务及与消息代理结合）
+</p>
 
