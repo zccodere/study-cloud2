@@ -18,6 +18,7 @@
         <module>ch04-ribbon</module>
         <module>ch05-hystrix</module>
         <module>ch06-feign</module>
+        <module>ch07-gateway</module>
     </modules>
 
     <build>

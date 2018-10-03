@@ -35,3 +35,9 @@
 <p>
 使用Spring Cloud Feign、使用继承特性实现接口绑定、服务降级
 </p>
+
+### 2018-2018100302：ch07-zuul<br>
+第07章《API网关服务：Spring Cloud Zuul》学习源码
+<p>
+使用Spring Cloud Zuul、自定义异常返回信息、动态路由、动态过滤器
+</p>
