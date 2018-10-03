@@ -10,7 +10,7 @@
         <version>1.0.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>ch5-hystrix-consumer</artifactId>
+    <artifactId>ch05-hystrix-consumer</artifactId>
     <packaging>jar</packaging>
 
     <dependencies>
