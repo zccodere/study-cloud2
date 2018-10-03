@@ -17,6 +17,7 @@
         <module>ch03-eureka</module>
         <module>ch04-ribbon</module>
         <module>ch05-hystrix</module>
+        <module>ch06-feign</module>
     </modules>
 
     <build>

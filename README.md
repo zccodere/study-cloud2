@@ -30,3 +30,8 @@
 使用 Hystrix、Hystrix 仪表盘、Turbine 集群监控（构建监控聚合服务及与消息代理结合）
 </p>
 
+### 2018-2018100301：ch06-feign<br>
+第06章《声明式服务调用：Spring Cloud Feign》学习源码
+<p>
+使用Spring Cloud Feign、使用继承特性实现接口绑定、服务降级
+</p>
