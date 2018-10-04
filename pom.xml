@@ -20,6 +20,7 @@
         <module>ch06-feign</module>
         <module>ch07-gateway</module>
         <module>ch08-config</module>
+        <module>ch09-bus</module>
     </modules>
 
     <build>

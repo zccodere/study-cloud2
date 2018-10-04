@@ -47,3 +47,9 @@
 <p>
 使用Spring Cloud Config、服务化配置中心、动态刷新配置
 </p>
+
+### 2018-2018100402：ch09-bus<br>
+第09章《消息总线：Spring Cloud Bus》学习源码
+<p>
+Spring Boot 整合 RabbitMQ、RabbitMQ实现消息总线、Kafka实现消息总线
+</p>
