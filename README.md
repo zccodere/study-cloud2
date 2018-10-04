@@ -41,3 +41,9 @@
 <p>
 使用Spring Cloud Zuul、自定义异常返回信息、动态路由、动态过滤器
 </p>
+
+### 2018-2018100401：ch08-config<br>
+第08章《分布式配置中心：Spring Cloud Config》学习源码
+<p>
+使用Spring Cloud Config、服务化配置中心、动态刷新配置
+</p>
