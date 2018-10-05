@@ -59,3 +59,9 @@ Spring Boot 整合 RabbitMQ、RabbitMQ实现消息总线、Kafka实现消息总�
 <p>
 Spring Cloud Stream 快速入门、绑定消息通道、消息分区
 </p>
+
+### 2018-2018100502：ch11-sleuth<br>
+第11章《分布式服务跟踪：Spring Cloud Sleuth》学习源码
+<p>
+Spring Cloud Sleuth 快速入门、消息中间件收集、MySQL数据存储
+</p>
