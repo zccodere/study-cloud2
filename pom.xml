@@ -21,6 +21,7 @@
         <module>ch07-gateway</module>
         <module>ch08-config</module>
         <module>ch09-bus</module>
+        <module>ch10-stream</module>
     </modules>
 
     <build>

@@ -53,3 +53,9 @@
 <p>
 Spring Boot 整合 RabbitMQ、RabbitMQ实现消息总线、Kafka实现消息总线
 </p>
+
+### 2018-2018100501：ch10-stream<br>
+第10章《消息驱动的微服务：Spring Cloud Stream》学习源码
+<p>
+Spring Cloud Stream 快速入门、绑定消息通道、消息分区
+</p>
